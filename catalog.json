@@ -13,7 +13,15 @@
       "pilipala5/RedBookCards",
       "NimaChu/xhs-imagen",
       "xue-feng-bai/xiaohongshu-card-builder-collection",
-      "nexu-io/html-anything"
+      "nexu-io/html-anything",
+      "bozhouDev/xhs-article-to-images",
+      "manwithshit/xhs-images",
+      "ponyodong2026/ponyo-cover-anchor-system",
+      "mythkiven/rednote-director-skill",
+      "ioioiioo12138/xhs-note-creator",
+      "QHaoQi/xhs-editorial",
+      "SuperMarioYL/coverlock",
+      "bethel-mark/travel-xhs-content"
     ],
     "research": [
       "lucasygu/redbook",
@@ -21,14 +29,25 @@
       "piekill/xiaohongshu-summarizer-skill",
       "chenxiachan/xhs-claude-skills",
       "DeliciousBuding/xiaohongshu-skill",
-      "vivy-yi/xiaohongshu-skills"
+      "vivy-yi/xiaohongshu-skills",
+      "mini20201314-crypto/xhs-ai-tools-writer",
+      "d-wwei/great-writer",
+      "codewithwu/xiaohongshu-writer",
+      "aislinn-yang/rednote-writing-skill",
+      "coinluu/xhs-topic-strategist-skill",
+      "azlll/xhs-notes-skill",
+      "zhangchitc/analyze-xiaohongshu",
+      "atian-create/xhs-profile-breakdown-skill",
+      "864536370dhy-png/xhs-account-diagnosis-skill",
+      "PENGLEI8686/xhs-reader-view"
     ],
     "operations": [
       "white0dew/XiaohongshuSkills",
       "autoclaw-cc/xiaohongshu-skills",
       "Xiangyu-CAS/xiaohongshu-ops-skill",
       "2975647277/xiaohongshu-mcp",
-      "ibreez3/xiaohongshu-skill"
+      "ibreez3/xiaohongshu-skill",
+      "erafat/skills"
     ],
     "quality_and_pipelines": [
       "XshuiAi/media-publish-check",

@@ -10,6 +10,8 @@
 
 所以这里收录了一部分高星、实用、和小红书内容创作相关的 Skills 与工具：从选题研究、爆款拆解，到标题正文、图文卡片、封面设计，再到发布前检查和账号运营。欢迎提 Issue 推荐你正在使用的项目。
 
+截至 2026-08-02，首版精选目录已扩展到 43 个项目。
+
 > **English keywords:** awesome Xiaohongshu skills, awesome RedNote skills, Agent Skills for Xiaohongshu, Claude Code Xiaohongshu, Codex Xiaohongshu, OpenClaw Xiaohongshu, Xiaohongshu carousel cards, social card generator, RedNote content creation, Xiaohongshu MCP.
 
 ## Why this list
@@ -53,6 +55,14 @@
 | [NimaChu/xhs-imagen](https://github.com/NimaChu/xhs-imagen) | 面向科普类小红书图文内容的 Skill | MIT |
 | [xue-feng-bai/xiaohongshu-card-builder-collection](https://github.com/xue-feng-bai/xiaohongshu-card-builder-collection) | 多种 Markdown → 小红书卡片构建器和本地 HTML 版本 | 未声明 |
 | [nexu-io/html-anything](https://github.com/nexu-io/html-anything) | 多平台 HTML 设计 Skill 集合，包含 XHS / 社交卡片创作面 | Apache-2.0 |
+| [bozhouDev/xhs-article-to-images](https://github.com/bozhouDev/xhs-article-to-images) | Agent-assisted Markdown 文章 → 小红书图片卡片工作流 | MIT |
+| [manwithshit/xhs-images](https://github.com/manwithshit/xhs-images) | 小红书信息图系列生成器，面向 Claude Skill | MIT |
+| [ponyodong2026/ponyo-cover-anchor-system](https://github.com/ponyodong2026/ponyo-cover-anchor-system) | 封面信息密度与视觉锚点设计 Skill | 未声明 |
+| [mythkiven/rednote-director-skill](https://github.com/mythkiven/rednote-director-skill) | 图文轮播规划、视觉导演、封面内页、AI 生图提示词和发布文案 | MIT |
+| [ioioiioo12138/xhs-note-creator](https://github.com/ioioiioo12138/xhs-note-creator) | 笔记内容创作工具包；多视觉主题和分页模式 | 未声明 |
+| [QHaoQi/xhs-editorial](https://github.com/QHaoQi/xhs-editorial) | 用真实产品 UI 制作杂志感小红书轮播图、封面和 Demo GIF | MIT |
+| [SuperMarioYL/coverlock](https://github.com/SuperMarioYL/coverlock) | 锁定账号级 style-pack，让后续封面保持视觉一致 | Apache-2.0 |
+| [bethel-mark/travel-xhs-content](https://github.com/bethel-mark/travel-xhs-content) | 旅行主题：标题、正文、标签、图片提示词、封面建议和发布策略 | MIT |
 
 ## Research, reading and idea discovery
 
@@ -64,6 +74,16 @@
 | [chenxiachan/xhs-claude-skills](https://github.com/chenxiachan/xhs-claude-skills) | 将小红书笔记提取到 Obsidian，适合资料归档和二次研究 | MIT |
 | [DeliciousBuding/xiaohongshu-skill](https://github.com/DeliciousBuding/xiaohongshu-skill) | 基于 Playwright 的搜索、帖子详情和用户主页提取工具 | MIT |
 | [vivy-yi/xiaohongshu-skills](https://github.com/vivy-yi/xiaohongshu-skills) | 覆盖内容创作、账号运营、互动、数据分析、电商和增长的技能集合 | 未声明 |
+| [mini20201314-crypto/xhs-ai-tools-writer](https://github.com/mini20201314-crypto/xhs-ai-tools-writer) | 面向 AI 工具内容的小红书写作工作流 | MIT |
+| [d-wwei/great-writer](https://github.com/d-wwei/great-writer) | 通用 AI 写作 Skill，覆盖小红书笔记、营销文案和反 AI 味改写 | MIT |
+| [codewithwu/xiaohongshu-writer](https://github.com/codewithwu/xiaohongshu-writer) | 小红书帖子、种草、教程攻略、观点分享和生活记录写作 Skill | MIT |
+| [aislinn-yang/rednote-writing-skill](https://github.com/aislinn-yang/rednote-writing-skill) | RedNote 文案写作；加入 AI 痕迹和平台风险词检查 | MIT |
+| [coinluu/xhs-topic-strategist-skill](https://github.com/coinluu/xhs-topic-strategist-skill) | 选题规划、趋势匹配、评分和风险复核，无代码依赖 | MIT |
+| [azlll/xhs-notes-skill](https://github.com/azlll/xhs-notes-skill) | 看图理解、选题、标题正文、标签、评论钩子和风险检查 | MIT |
+| [zhangchitc/analyze-xiaohongshu](https://github.com/zhangchitc/analyze-xiaohongshu) | 分析小红书账号、笔记和封面，生成多维方法论报告与交互式面板 | 未声明 |
+| [atian-create/xhs-profile-breakdown-skill](https://github.com/atian-create/xhs-profile-breakdown-skill) | 小红书 / RedNote 创作者主页拆解和清晰度检查 | MIT |
+| [864536370dhy-png/xhs-account-diagnosis-skill](https://github.com/864536370dhy-png/xhs-account-diagnosis-skill) | 小红书账号流量与涨粉诊断 Skill | MIT |
+| [PENGLEI8686/xhs-reader-view](https://github.com/PENGLEI8686/xhs-reader-view) | 小红书 / RedNote 笔记读者视角审稿 Skill | MIT |
 
 ## Publishing, operations and MCP
 
@@ -84,6 +104,7 @@
 | [XshuiAi/media-publish-check](https://github.com/XshuiAi/media-publish-check) | 面向小红书、抖音、视频号和快手的发布前审核 Skill | MIT |
 | [yanhua1010/self-media-content-workflow](https://github.com/yanhua1010/self-media-content-workflow) | 模块化自媒体内容生产与经营 Skills | MIT |
 | [OrangeViolin/content-pipeline](https://github.com/OrangeViolin/content-pipeline) | 一次输入、多平台内容生产与发布的 Claude Code Skill | MIT |
+| [erafat/skills](https://github.com/erafat/skills) | 包含 `md-to-xhs-cards` 的可复用 Skills 集合，并覆盖直接发布 | MIT |
 
 ## A practical creator workflow
 
@@ -92,6 +113,12 @@
 3. 优先使用自己的照片、截图或可核验的公开素材，并保留来源。
 4. 用 `media-publish-check` 做发布前检查。
 5. 最后人工上传和复核；自动发布、评论、点赞不作为默认步骤。
+
+## Xiaohongshu discovery notes
+
+我也尝试在小红书站内搜索 `小红书 skill`、`REDSkill`、`小红书卡片 Skill` 和 `AI 小红书内容创作`。公开未登录状态下，搜索页只显示登录入口，没有返回可以逐条核验的笔记结果，因此本列表不会把搜索不到正文的站内帖子伪装成项目来源。
+
+目前已确认的一条站内线索是：[开源个skill | 小红书多画幅图文卡片](https://xhslink.cn/o/8VJBZcJcS7N)，其内容对应 [BLCaptain Style Skill](https://github.com/dososo/blcaptain-style-skill)。后续如果有已登录的站内搜索结果或笔记链接，可以继续补充到本节和目录中。
 
 ## Curation policy
 
