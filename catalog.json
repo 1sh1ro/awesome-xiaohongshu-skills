@@ -1,0 +1,39 @@
+{
+  "name": "awesome-xiaohongshu-skills",
+  "description": "Curated Agent Skills, CLIs, MCP servers, and content tools for Xiaohongshu / RED / RedNote.",
+  "last_verified": "2026-08-02",
+  "categories": {
+    "content_creation": [
+      "op7418/guizang-social-card-skill",
+      "dososo/blcaptain-style-skill",
+      "JimLiu/baoyu-skills",
+      "qianjiazheng2023/xiaohongshu-article-cards",
+      "Vivixiao980/xhs-cover-skill",
+      "leefrane-creator/XHS-link-to-card-pipeline",
+      "pilipala5/RedBookCards",
+      "NimaChu/xhs-imagen",
+      "xue-feng-bai/xiaohongshu-card-builder-collection",
+      "nexu-io/html-anything"
+    ],
+    "research": [
+      "lucasygu/redbook",
+      "jackwener/xhs-cli",
+      "piekill/xiaohongshu-summarizer-skill",
+      "chenxiachan/xhs-claude-skills",
+      "DeliciousBuding/xiaohongshu-skill",
+      "vivy-yi/xiaohongshu-skills"
+    ],
+    "operations": [
+      "white0dew/XiaohongshuSkills",
+      "autoclaw-cc/xiaohongshu-skills",
+      "Xiangyu-CAS/xiaohongshu-ops-skill",
+      "2975647277/xiaohongshu-mcp",
+      "ibreez3/xiaohongshu-skill"
+    ],
+    "quality_and_pipelines": [
+      "XshuiAi/media-publish-check",
+      "yanhua1010/self-media-content-workflow",
+      "OrangeViolin/content-pipeline"
+    ]
+  }
+}

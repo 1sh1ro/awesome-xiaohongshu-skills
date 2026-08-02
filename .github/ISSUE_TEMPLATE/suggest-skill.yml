@@ -1,0 +1,31 @@
+name: Suggest a skill
+description: 推荐一个小红书内容创作、研究或运营相关项目
+title: "[Suggest] "
+labels:
+  - suggestion
+body:
+  - type: input
+    id: repository
+    attributes:
+      label: GitHub repository
+      description: 请填写公开 GitHub 仓库地址
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: textarea
+    id: capability
+    attributes:
+      label: What does it do?
+      description: 请说明主要能力，以及它属于创作、研究、运营还是发布
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License
+      placeholder: MIT / Apache-2.0 / Not declared
+  - type: textarea
+    id: risks
+    attributes:
+      label: Access and risk notes
+      description: 是否需要登录、Cookie、API Key、本地浏览器，或会直接操作账号？
