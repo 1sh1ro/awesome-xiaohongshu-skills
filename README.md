@@ -105,6 +105,7 @@
 | [yanhua1010/self-media-content-workflow](https://github.com/yanhua1010/self-media-content-workflow) | 模块化自媒体内容生产与经营 Skills | MIT |
 | [OrangeViolin/content-pipeline](https://github.com/OrangeViolin/content-pipeline) | 一次输入、多平台内容生产与发布的 Claude Code Skill | MIT |
 | [erafat/skills](https://github.com/erafat/skills) | 包含 `md-to-xhs-cards` 的可复用 Skills 集合，并覆盖直接发布 | MIT |
+| [Jian21311/account-diagnosis-skill](https://github.com/Jian21311/account-diagnosis-skill) | 公开账号诊断规则：先判断手上有没有数据再定怎么判，六个维度分三档，不给总分，只指出最该改的一件；不抓取数据、不登录账号 | CC BY 4.0 |
 
 ## A practical creator workflow
 
