@@ -52,7 +52,8 @@
     "quality_and_pipelines": [
       "XshuiAi/media-publish-check",
       "yanhua1010/self-media-content-workflow",
-      "OrangeViolin/content-pipeline"
+      "OrangeViolin/content-pipeline",
+      "Jian21311/account-diagnosis-skill"
     ]
   }
 }
